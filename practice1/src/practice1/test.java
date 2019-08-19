@@ -1,5 +1,5 @@
 package practice1;
 
-public class test {
+public class test{
 
 }
